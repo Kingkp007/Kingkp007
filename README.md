@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Microservices, Kafka**
 
-- 💬 Ask me about **Java Sprngboo, Javascript, React js**
+- 💬 Ask me about **Java Springboot, Javascript, React js**
 
 - 📫 How to reach me **patilkshitish@gmail.com**
 
